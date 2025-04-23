@@ -1,13 +1,7 @@
-Practice Repository: Reproducible Research for Teams with GitHub
-================================================================
+# DataLab's Git Sandbox
 
-Workshop reader: https://ucdavisdatalab.github.io/workshop_git_for_teams/
+This repository is place for learners in DataLab's [Git for Teams][dl-git]
+workshop to practice branching, merging, and making pull requests. Follow the
+link for instructions.
 
-Instructions:
--------------
-
-Clone this repository, make a new branch named with your first name and last initial,
-and write your name below.
-
-Name:
-
+[dl-git]: https://ucdavisdatalab.github.io/workshop_git_for_teams/
