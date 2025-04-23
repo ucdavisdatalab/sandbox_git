@@ -5,3 +5,5 @@ workshop to practice branching, merging, and making pull requests. Follow the
 link for instructions.
 
 [dl-git]: https://ucdavisdatalab.github.io/workshop_git_for_teams/
+
+**You're probably on the `demo` branch!**
