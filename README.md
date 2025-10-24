@@ -7,3 +7,5 @@ link for instructions.
 [dl-git]: https://ucdavisdatalab.github.io/workshop_git_for_teams/
 
 **You're probably on the `demo` branch!**
+
+What's your favorite color?
