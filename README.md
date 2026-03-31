@@ -10,4 +10,4 @@ link for instructions.
 
 What's your favorite color?
 
-GREEN
+BLUE
