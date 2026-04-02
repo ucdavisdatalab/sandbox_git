@@ -6,8 +6,6 @@ link for instructions.
 
 [dl-git]: https://ucdavisdatalab.github.io/workshop_git_for_teams/
 
-**You're probably on the `demo` branch!**
+## 2026-04-02 
 
-What's your favorite color?
-
-BLUE
+What's your favourite thing to do in your downtime? 
