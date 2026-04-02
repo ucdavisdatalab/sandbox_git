@@ -5,3 +5,6 @@ workshop to practice branching, merging, and making pull requests. Follow the
 link for instructions.
 
 [dl-git]: https://ucdavisdatalab.github.io/workshop_git_for_teams/
+
+## 2026-4-2
+Top 3 places to eat in Davis?
