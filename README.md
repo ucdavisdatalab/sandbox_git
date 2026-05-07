@@ -9,3 +9,5 @@ link for instructions.
 **You're probably on the `demo` branch!**
 
 What's your favorite color?
+
+My favorite color is green.
