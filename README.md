@@ -10,4 +10,4 @@ link for instructions.
 
 What's your favorite color?
 
-My favorite color is green.
+My favorite color is red.
